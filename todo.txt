@@ -18,7 +18,6 @@ http://www.cs.colorado.edu/~main/cs1300/doc/bgi/
 
 https://www.enlightenment.org/p.php?p=about/efl
 https://github.com/stefanct/sglib
-https://bitbucket.org/zserge/jsmn/wiki/Home
 http://itpp.sourceforge.net/
 
 http://www.catb.org/esr/structure-packing/
@@ -168,7 +167,6 @@ https://github.com/lsegal/my_toy_compiler
 https://github.com/openexr/openexr
 https://github.com/google/snappy
 https://github.com/spesmilo/libbitcoin
-https://github.com/Amanieu/asyncplusplus
 https://github.com/gwaldron/osgearth
 https://github.com/xiw/stack
 https://github.com/mozy/mordor
@@ -221,7 +219,6 @@ https://github.com/munificent/game-programming-patterns
 
 http://libcxx.llvm.org/
 http://www.ijg.org/
-http://sourceforge.net/projects/libjpeg-turbo/
 http://libpng.org/
 http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/emt19937ar.html
 https://code.google.com/p/sfntly/
